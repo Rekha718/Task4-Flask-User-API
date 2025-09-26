@@ -6,7 +6,7 @@ A simple Flask-based REST API to manage user data (CRUD operations).
 
 Clone this repository:
 ```bash
-git clone https://github.com/YourUsername/Task4-Flask-REST-API
+git clone https://github.com/Rekha718/Task4-Flask-User-API
 ```
 
 Navigate into the project folder:
